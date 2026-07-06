@@ -1,0 +1,3 @@
+/media/vojtech-razima/0052433452432DAA/2coding/laika/build/CMakeFiles/laika-cli.dir
+/media/vojtech-razima/0052433452432DAA/2coding/laika/build/CMakeFiles/edit_cache.dir
+/media/vojtech-razima/0052433452432DAA/2coding/laika/build/CMakeFiles/rebuild_cache.dir

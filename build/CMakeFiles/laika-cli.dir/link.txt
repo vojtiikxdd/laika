@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -Wl,--dependency-file=CMakeFiles/laika-cli.dir/link.d "CMakeFiles/laika-cli.dir/src/main.cpp.o" -o laika-cli  -lraw -lstdc++ -llcms2 -llcms2_fast_float -llcms2_threaded -lm
