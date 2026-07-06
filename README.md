@@ -1,5 +1,5 @@
 # Image preview app for linux - supporting all raw files
 
-Built by flustration and curiosity, tysm
+Built by flustration and curiosity, &#9829; **_tysm_** &#9829;
 
-*First release soon frfr*
+_First release soon frfr_
