@@ -38,7 +38,6 @@ laika-cli: \
   /usr/lib/i386-linux-gnu/libjpeg.so.8 \
   /lib/x86_64-linux-gnu/libjpeg.so.8 \
   /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/liblcms2.so \
-  /lib/x86_64-linux-gnu/libm.so.6 \
   /lib/i386-linux-gnu/libgomp.so.1 \
   /usr/lib/i386-linux-gnu/libgomp.so.1 \
   /lib/x86_64-linux-gnu/libgomp.so.1 \
@@ -121,8 +120,6 @@ CMakeFiles/laika-cli.dir/src/main.cpp.o:
 /lib/x86_64-linux-gnu/libjpeg.so.8:
 
 /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/liblcms2.so:
-
-/lib/x86_64-linux-gnu/libm.so.6:
 
 /lib/i386-linux-gnu/libgomp.so.1:
 
